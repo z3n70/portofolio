@@ -13,7 +13,7 @@ Selamat datang di portofolio saya! Saya adalah seorang **Offensive Security Engi
 
 ## 📖 Tentang Saya
 
-Saya adalah seorang **Offensive Security Engineer** dengan pengalaman lebih dari 6 tahun dalam penetration testing, bug bounty hunting, dan vulnerability assessment. Saya adalah founder dari **Security Crash (Secrash)** dan aktif sebagai IT Security Consultant di PT. Punggawa Siber Solusi.
+Saya adalah seorang **Offensive Security Engineer** dengan pengalaman lebih dari 6 tahun dalam penetration testing, bug bounty hunting, dan vulnerability assessment. Saya adalah founder dari **Security Crash (Secrash)**.
 
 **Fokus utama saya:**
 - 🎯 Penetration Testing (Web, Mobile, Desktop, ATM, Infrastructure)
@@ -35,7 +35,6 @@ Saya adalah seorang **Offensive Security Engineer** dengan pengalaman lebih dari
 - **Python** (Penetration Testing Scripts)
 - **Bash**, **PowerShell**, **C/C++**
 - **JavaScript**, **PHP**, **SQL**
-- **Assembly**, **Reverse Engineering**
 
 ### Operating Systems & Platforms
 - **Kali Linux**, **Parrot Security OS**
@@ -75,14 +74,14 @@ Penemuan vulnerability di berbagai platform besar:
 - 🚗 **Moladin** - Broken Access Control
 - 📊 **Bibit & Stockbit** - No Rate Limit Bypass via DotTrick
 
-[🔗 GitHub](https://github.com/z3n70) | [📄 HackerOne Profile](https://hackerone.com/z3n70)
+[🔗 GitHub](https://github.com/z3n70)
 
 ### 3. CVE Discoveries
 **Organizations:** Mozilla, JD.id, Google, Pitch, PhpIPAM
 
 Penemuan vulnerability yang menghasilkan CVE assignments:
-- 🔥 **CVE-2023-0676** - Critical vulnerability discovery
-- 🔥 **CVE-2023-0677** - High severity vulnerability
+- 🔥 **CVE-2023-0676**
+- 🔥 **CVE-2023-0677**
 - 🛡️ Responsible disclosure process
 - 📊 Impact assessment dan remediation
 
@@ -92,7 +91,7 @@ Penemuan vulnerability yang menghasilkan CVE assignments:
 
 ## 📈 Pengalaman
 
-### IT Security Consultant | PT. Punggawa Siber Solusi (2022 - Present)
+### IT Security Consultant | PT. Punggawa Siber Solusi (2022 - 2025)
 - 🎯 Melakukan penetration testing untuk berbagai klien enterprise
 - 🚀 Mengembangkan solusi security consulting
 - 📊 Vulnerability assessment dan risk analysis
@@ -135,10 +134,9 @@ Penemuan vulnerability yang menghasilkan CVE assignments:
 
 ## 🏆 Prestasi & Penghargaan
 
-- 🥇 **1st Place Lockpick Challenge Winner** - Black Hat ASIA Singapore
 - 🏅 **CVE Discoveries** - CVE-2023-0676, CVE-2023-0677
-- 📝 **Security Trainer** - Air Force, Kementerian Hukum, Pelni Logistics, SMA 24 Bandung, SMA 1 Bojongsoang, Ministry of Defense, Indonesian Army
-- 👨‍💻 **Bug Bounty Achievements** - 17+ successful vulnerability discoveries
+- 📝 **Security Trainer**
+- 👨‍💻 **Bug Bounty Achievements** - Successful vulnerability discoveries
 - 🛡️ **Security Researcher** - Responsible disclosure untuk Mozilla, JD.id, Google, Pitch, PhpIPAM
 
 ---
