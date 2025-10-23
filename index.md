@@ -1,123 +1,151 @@
 ---
 layout: default
+title: Portofolio
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# 👋 Halo, Saya [Nama Anda]
 
-[Link to another page](./another-page.html).
+## 🔒 Offensive Security Engineer & Cybersecurity Expert
 
-There should be whitespace between paragraphs.
+Selamat datang di portofolio saya! Saya adalah seorang **Offensive Security Engineer** yang passionate dalam mengidentifikasi dan mengeksploitasi kerentanan sistem untuk meningkatkan keamanan organisasi.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 📖 Tentang Saya
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Saya adalah seorang **Offensive Security Engineer** dengan pengalaman lebih dari 5 tahun dalam penetration testing, red team operations, dan vulnerability assessment. Saya memiliki passion yang besar terhadap cybersecurity dan selalu ingin belajar teknik-teknik baru dalam offensive security.
 
-## Header 2
+**Fokus utama saya:**
+- 🎯 Penetration Testing dan Vulnerability Assessment
+- 🔴 Red Team Operations dan Adversarial Simulation
+- 🛡️ Web Application Security Testing
+- 🔐 Network Security dan Infrastructure Testing
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## 🛠️ Skills & Technologies
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Penetration Testing Tools
+- **Burp Suite**, **OWASP ZAP**, **Nessus**
+- **Metasploit**, **Cobalt Strike**, **Empire**
+- **Nmap**, **Masscan**, **Zmap**
+- **Wireshark**, **tcpdump**, **netcat**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Programming & Scripting
+- **Python** (Penetration Testing Scripts)
+- **Bash**, **PowerShell**, **C/C++**
+- **JavaScript**, **PHP**, **SQL**
+- **Assembly**, **Reverse Engineering**
 
-#### Header 4
+### Operating Systems & Platforms
+- **Kali Linux**, **Parrot Security OS**
+- **Windows**, **Linux**, **macOS**
+- **Active Directory**, **Exchange**
+- **Cloud Platforms** (AWS, Azure, GCP)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Specialized Areas
+- **Web Application Security** (OWASP Top 10)
+- **Network Penetration Testing**
+- **Social Engineering** & **Phishing**
+- **Malware Analysis** & **Reverse Engineering**
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 🎯 Proyek Unggulan
 
-###### Header 6
+### 1. Enterprise Penetration Testing
+**Tools:** Burp Suite, Metasploit, Cobalt Strike, Custom Scripts
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Penetration testing komprehensif untuk perusahaan Fortune 500:
+- 🔍 Vulnerability Assessment (Web Apps, Network, Infrastructure)
+- 🎯 Red Team Simulation dengan 0-day exploits
+- 📊 Executive reporting dengan risk assessment
+- 🛡️ Remediation recommendations
 
-### There's a horizontal rule below this.
+[🔗 Lihat Report](https://github.com/username/enterprise-pentest) | [📄 Executive Summary](./reports/enterprise-pentest.pdf)
 
-* * *
+### 2. Web Application Security Assessment
+**Tools:** OWASP ZAP, Burp Suite, Custom Python Scripts
 
-### Here is an unordered list:
+Security assessment untuk fintech application:
+- 🕷️ Automated vulnerability scanning
+- 🔐 Manual testing untuk authentication bypass
+- 💰 Payment gateway security testing
+- 📱 Mobile API security assessment
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+[🔗 Lihat Report](https://github.com/username/webapp-security) | [📄 Technical Report](./reports/webapp-security.pdf)
 
-### And an ordered list:
+### 3. Active Directory Penetration Testing
+**Tools:** BloodHound, Mimikatz, Empire, Custom PowerShell
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+AD environment penetration testing:
+- 🏰 Domain privilege escalation
+- 🔑 Kerberoasting dan ASREPRoasting
+- 👥 Lateral movement techniques
+- 🎭 Persistence mechanisms
 
-### And a nested list:
+[🔗 Lihat Report](https://github.com/username/ad-pentest) | [📄 Technical Report](./reports/ad-pentest.pdf)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+---
 
-### Small image
+## 📈 Pengalaman
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### Senior Offensive Security Engineer | Cybersecurity Firm (2022 - Present)
+- 🎯 Memimpin tim red team operations untuk 15+ enterprise clients
+- 🚀 Mengembangkan custom exploitation tools dan frameworks
+- 📊 Menemukan 200+ critical vulnerabilities dalam 1 tahun
+- 🔧 Membangun automated penetration testing pipeline
 
-### Large image
+### Penetration Tester | Security Consultancy (2020 - 2022)
+- 🔍 Melakukan penetration testing untuk 50+ web applications
+- 🤝 Berkolaborasi dengan blue team untuk security improvements
+- 🐛 Mengembangkan custom exploits untuk zero-day vulnerabilities
+- 📱 Mobile application security testing (iOS/Android)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+---
 
+## 🎓 Pendidikan & Sertifikasi
 
-### Definition lists can be used with HTML syntax.
+- **Bachelor of Computer Science** - Universitas ABC (2016 - 2020)
+- **OSCP (Offensive Security Certified Professional)** - Offensive Security
+- **CEH (Certified Ethical Hacker)** - EC-Council
+- **CISSP (Certified Information Systems Security Professional)** - (ISC)²
+- **GCIH (GIAC Certified Incident Handler)** - SANS/GIAC
+- **CISM (Certified Information Security Manager)** - ISACA
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+---
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## 🏆 Prestasi & Penghargaan
 
-```
-The final element.
-```
+- 🥇 **1st Place** - DEF CON CTF Competition 2023
+- 🏅 **Top Performer** - Bug Bounty Program (HackerOne, Bugcrowd)
+- 📝 **Speaker** - Black Hat Asia 2023 - "Advanced AD Exploitation Techniques"
+- 👨‍💻 **CVE Contributor** - 15+ CVE discoveries
+- 🛡️ **Security Researcher** - Responsible disclosure untuk 50+ vulnerabilities
+
+---
+
+## 📞 Hubungi Saya
+
+Saya selalu terbuka untuk diskusi tentang proyek baru, kolaborasi, atau sekedar ngobrol tentang teknologi!
+
+- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- 📱 **WhatsApp:** [+62 812-3456-7890](https://wa.me/6281234567890)
+
+---
+
+## 📝 Blog & Artikel
+
+Saya juga aktif menulis artikel tentang cybersecurity dan offensive security:
+
+- [🔗 "Advanced Active Directory Exploitation Techniques"](./blog/ad-exploitation.html)
+- [🔗 "Web Application Security: OWASP Top 10 Deep Dive"](./blog/owasp-top10.html)
+- [🔗 "Red Team Operations: From Recon to Domain Admin"](./blog/red-team-ops.html)
+- [🔗 "Malware Analysis: Reverse Engineering Fundamentals"](./blog/malware-analysis.html)
+
+---
+
+*Terima kasih telah mengunjungi portofolio saya! Jangan ragu untuk menghubungi saya jika ada yang ingin didiskusikan.* 🚀
