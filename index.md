@@ -146,7 +146,6 @@ Penemuan vulnerability yang menghasilkan CVE assignments:
 Saya selalu terbuka untuk diskusi tentang proyek security, kolaborasi, atau sekedar ngobrol tentang cybersecurity!
 
 - 📧 **Email:** [zenalarifin0x37@gmail.com](mailto:zenalarifin0x37@gmail.com)
-- 📱 **Phone:** [+62 8211 7233 669](https://wa.me/6282117233669)
 - 🐙 **GitHub:** [github.com/z3n70](https://github.com/z3n70)
 - 🌐 **Website:** [Security Crash (Secrash)](https://secrash.com)
 - 💼 **LinkedIn:** [Muhammad Zenal Arifin](https://linkedin.com/in/muhammad-zenal-arifin)
