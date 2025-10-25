@@ -142,7 +142,7 @@ Responsible vulnerability discoveries resulting in official CVE assignments:
 
 I am open to discussions regarding security projects, research collaborations, or general conversations about cybersecurity.
 
-- Email: [zenalarifin0x37@gmail.com](mailto:zenalarifin0x37@gmail.com)  
+- Email: [zenal@secrash.com](mailto:zenal@secrash.com)  
 - GitHub: [github.com/z3n70](https://github.com/z3n70)  
 - Website: [Security Crash (Secrash)](https://secrash.com)  
 - LinkedIn: [Muhammad Zenal Arifin](https://linkedin.com/in/muhammad-zenal-arifin)
