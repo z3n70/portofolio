@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-# Hello, I'm Muhammad Zenal Arifin
+# Hello, I'm Zenal Arifin
 
 ## Offensive Security Engineer
 
@@ -83,18 +83,18 @@ Responsible vulnerability discoveries resulting in official CVE assignments:
 - Contributed impact assessments and remediation reports  
 
 [CVE Details](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0676) | [Technical Report](./reports/cve-discoveries.pdf)
-
+[CVE Details](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0677) | [Technical Report](./reports/cve-discoveries.pdf)
 ---
 
 ## Professional Experience
 
-### IT Security Consultant | PT. Punggawa Siber Solusi (2022 - 2025)
+### IT Security Consultant | PT. [REDACTED] (2022 - 2025)
 - Conducted comprehensive penetration testing for enterprise clients  
 - Developed and implemented tailored security consulting solutions  
 - Performed vulnerability assessments and risk analysis  
 - Delivered cybersecurity training and awareness programs  
 
-### IT Security | PT. Weyland Indonesia Perkasa (2020 - 2022)
+### IT Security | PT. [REDACTED] (2020 - 2022)
 - Built the foundation of a professional career in cybersecurity  
 - Implemented corporate security controls and policies  
 - Conducted monitoring and incident response activities  
@@ -111,9 +111,9 @@ Responsible vulnerability discoveries resulting in official CVE assignments:
 ## Education & Certifications
 
 ### Education
-- Bachelor of Informatics Engineering – STMIK AMIK (2022 - Present)  
-- Social Sciences – SMAN 1 Bojongsoang (2017 - 2020)  
-- SMPN 1 Bojongsoang (2015 - 2017)
+- Bachelor of Informatics Engineering – [REDACTED] (2022 - Present)  
+- Social Sciences – [REDACTED] (2017 - 2020)  
+- [REDACTED] (2015 - 2017)
 
 ### Cybersecurity Certifications
 - OSCP (Offensive Security Certified Professional) – Offensive Security (Sep 2024)  
@@ -142,10 +142,8 @@ Responsible vulnerability discoveries resulting in official CVE assignments:
 
 I am open to discussions regarding security projects, research collaborations, or general conversations about cybersecurity.
 
-- Email: [zenal@secrash.com](mailto:zenal@secrash.com)  
 - GitHub: [github.com/z3n70](https://github.com/z3n70)  
 - Website: [Security Crash (Secrash)](https://secrash.com)  
-- LinkedIn: [Muhammad Zenal Arifin](https://linkedin.com/in/muhammad-zenal-arifin)
 
 ---
 
