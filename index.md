@@ -82,8 +82,8 @@ Responsible vulnerability discoveries resulting in official CVE assignments:
 - Followed responsible disclosure practices  
 - Contributed impact assessments and remediation reports  
 
-[CVE Details](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0676) | [Technical Report](./reports/cve-discoveries.pdf)
-[CVE Details](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0677) | [Technical Report](./reports/cve-discoveries.pdf)
+[CVE Details](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0676)
+[CVE Details](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0677)
 ---
 
 ## Professional Experience
